@@ -70,6 +70,10 @@ public class Operadores {
 			 * 
 			 */
 		
+					/**
+					 * adentre a classe abaixo para pode ver exemplos e como utiliza-la
+					*/
+		
 		OperadoresTernarios ternarios = new OperadoresTernarios();
 	}
 }
