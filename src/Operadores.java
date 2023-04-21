@@ -5,7 +5,6 @@ public class Operadores {
 	public static void main(String[] args) {
 		
 	
-	
 	/**
 	 * Os operadores são simbolos especiais que são chave dentro da plataforma
 	 * ele determinar comparações e algumas outras ações a serem feitas que veremos
@@ -29,7 +28,20 @@ public class Operadores {
 		 * adentre a classe abaixo para pode ver exemplos e como utiliza-la
 		 */
 		OperadoresDeAtribuicao atribuicao = new OperadoresDeAtribuicao();
+		
+		
+	//OPERADORES ARITMÉTICOS
+	/**
+	 * O operador aritmético é utilizado para tratar e realizar operacoes matematicas entre
+	 * valores numericos, podendo se tornar ou não uma expressao mais complexa
+	 */
+		
+		/**
+		 * adentre a classe abaixo para pode ver exemplos e como utiliza-la
+		 */
+		
+		OperadoresAritmeticos aritmeticos = new OperadoresAritmericos();
 	
-	
+			
 	}
 }
