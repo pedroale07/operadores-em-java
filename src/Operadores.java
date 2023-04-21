@@ -40,7 +40,7 @@ public class Operadores {
 		 * adentre a classe abaixo para pode ver exemplos e como utiliza-la
 		 */
 		
-		OperadoresAritmeticos aritmeticos = new OperadoresAritmericos();
+		OperadoresAritmericos aritmeticos = new OperadoresAritmericos();
 	
 			
 	}
