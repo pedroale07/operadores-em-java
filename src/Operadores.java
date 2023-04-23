@@ -108,5 +108,28 @@ public class Operadores {
 				ComparacaoEntreObjetos comparacao = new ComparacaoEntreObjetos();
 			
 			
+				
+				//OPERADORES LOGICOS
+					/**
+					 * 
+					 * Os operadores lógicos, representam o recurso que nos permite criar expressões lógicas maiores, a partir da junção de duas ou mais expressões.
+					 *  && Operador Lógico "E"
+					 *  || Operador Lógico "OU"
+					 *  
+					 */
+				
+						/**
+				 		* adentre a classe abaixo para pode ver exemplos e
+				 		*  como utiliza-la
+				 		*/
+				
+				OperadoresLogicos logicos = new OperadoresLogicos();
+				
+				
+				
+				
+				
+				
+				
 	}
 }
