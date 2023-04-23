@@ -92,5 +92,21 @@ public class Operadores {
 		
 			OperadoresRelacionais relacionais = new OperadoresRelacionais();
 			
+			
+			//COMPARACOES AVANCADAS
+			
+			/**
+			 * Quando se refere a comparação de conteúdos na linguagem,
+			 *  devemos ter um certo domínio, de 
+			 * como o Java trata o armazenamento destes valores na memória.
+			 */
+			
+			/**
+			 * adentre a classe abaixo para pode ver exemplos e como utiliza-la
+			*/
+			
+				ComparacaoEntreObjetos comparacao = new ComparacaoEntreObjetos();
+			
+			
 	}
 }
